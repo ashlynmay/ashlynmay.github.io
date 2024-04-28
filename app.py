@@ -7,7 +7,7 @@ app = Flask(__name__)
 db = SQL("sqlite:///portfolio.db")
 directory = '/home/ipsum/vscodespace/'
 
-def searchrepo(repo)
+def searchrepo(repo_path)
 
 
 def project_check():
