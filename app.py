@@ -6,12 +6,6 @@ import re
 app = Flask(__name__)
 db = SQL("sqlite:///portfolio.db")
 directory = '/home/ipsum/vscodespace/'
-
-def searchrepo(repo_path, search_term):
-    results = []
-    for root, dirs, files in os.walk(repo_path):
-        for filename in files:
-            if filename.lower() == search_term.lower():
                 
 
 
