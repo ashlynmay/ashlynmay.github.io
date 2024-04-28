@@ -8,6 +8,7 @@ db = SQL("sqlite:///portfolio.db")
 directory = '/home/ipsum/vscodespace/'
 
 def searchrepo(repo_path, search_term):
+    results=
 
 
 def project_check():
