@@ -8,7 +8,8 @@ db = SQL("sqlite:///portfolio.db")
 directory = '/home/ipsum/vscodespace/'
 
 def searchrepo(repo_path, search_term):
-    results=
+    results = []
+    for root, dirs, files in os.walk(repo_path):
 
 
 def project_check():
