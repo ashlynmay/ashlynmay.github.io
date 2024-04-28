@@ -7,6 +7,9 @@ app = Flask(__name__)
 db = SQL("sqlite:///portfolio.db")
 directory = '/home/ipsum/vscodespace/'
 
+def searchrepo(repo)
+
+
 def project_check():
     if not db.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='projects'"):
         db.execute("CREATE TABLE projects (id INTEGER PRIMARY KEY, name TEXT, description TEXT, image TEXT, link TEXT, type TEXT, featured BOOLEAN, alt TEXT)")
