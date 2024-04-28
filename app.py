@@ -11,8 +11,7 @@ def searchrepo(repo_path, search_term):
     results = []
     for root, dirs, files in os.walk(repo_path):
         for filename in files:
-            if search_term in filename:
-                results.append(os.path.join(root, filename))
+           
 
 
 def project_check():
