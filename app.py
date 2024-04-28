@@ -1,5 +1,5 @@
 from cs50 import SQL
-from flask import Flask, flash, redirect, render_template, request
+from flask import Flask, render_template, request
 import os
 import re
 
