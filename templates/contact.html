@@ -1,0 +1,28 @@
+{% extends "layout.html" %} 
+{% block title %} Contact Me {% endblock %} 
+{% block body %}
+<div class="outer bg-neutral m-4 p-4 md:m-16 md:p-16">
+    <div class="avatar">
+        <div class="w-32 rounded-full">
+          <img src="https://res.cloudinary.com/dpm4kmh00/image/upload/v1714336283/portfolio%20assets/ashlyn_pvzsbw.jpg" />
+        </div>
+      </div>
+    <div id="inner"class="prose">
+        <h1 class="contactname">Ashlyn May</h1>
+        <p class="contactdescription">You can find my various socials here.</p>
+        <button class="btn btn-secondary btn-outline" href="mailto:may.ashlyn0723@gmail.com">Email Me</button>
+    </div>
+    <div class="sociallist pt-10 pb-8 w-[83vw] md:w-[50vw] lg:w-[35vw] md:ml-[0.5vw] md:pt-12">
+        <a href="https://www.facebook.com/ashlyn.may.10297/"><i class="fa-brands fa-facebook fa-xl" style="color: #4267B2;"></i></a>
+        <a href="https://www.instagram.com/strayashlyn/"><i class="fa-brands fa-instagram fa-xl" style="color: #C13584;"></i></a>
+        <a href="https://github.com/ashlynmay"><i class="fa-brands fa-github fa-xl" style="color: #24292E;"></i></a>
+        <a href="https://discord.com/users/262106759332626434/"><i class="fa-brands fa-discord fa-xl" style="color:#4267B2;"></i></a>
+        <a href="https://open.spotify.com/user/skooter0723?si=0a4868b106eb48b1"><i class="fa-brands fa-spotify fa-xl" style="color: #1DB954;"></i></a>
+        <a href="https://steamcommunity.com/id/decrepitipsum/"><i class="fa-brands fa-steam fa-xl" style="color: #0D0D0D;"></i></a>
+        <a href="https://www.snapchat.com/add/dumbbitchashlyn"><i class="fa-brands fa-snapchat fa-xl" style="color: #FFFC00;"></i></a>
+        <a href="https://cash.app/$ashlynbaka"><i class="fa-solid fa-hand-holding-dollar fa-xl" style="color: #FF9900;"></i></a>
+    </div>
+</div>
+
+{% include "nav-contact.html" %}
+{% endblock %}
