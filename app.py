@@ -12,7 +12,7 @@ def project_check():
         db.execute("CREATE TABLE projects (id INTEGER PRIMARY KEY, name TEXT, description TEXT, image TEXT, link TEXT, type TEXT, featured BOOLEAN, alt TEXT)")
         for root, dirs, files in os.walk(directory):
             for filename in files:
-                if filename.endswith('.md'):
+                if filename.lower.endswith('.md'):
                     with open(os.path.join(root, filename), "r") as file:
                         lines = file.read().splitlines()
                     if len(lines) >= 1:
