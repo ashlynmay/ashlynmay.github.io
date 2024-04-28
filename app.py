@@ -6,8 +6,6 @@ import re
 app = Flask(__name__)
 db = SQL("sqlite:///portfolio.db")
 directory = '/home/ipsum/vscodespace/'
-                
-
 
 def project_check():
     if not db.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='projects'"):
