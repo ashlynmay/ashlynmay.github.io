@@ -151,6 +151,7 @@ The main projects page will show featured projects.
   ```sh
    title of project
    link to preview image
+   brief description
    
    ```
 
