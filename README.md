@@ -156,6 +156,7 @@ The main projects page will show featured projects.
    type of project (c, python, web, or other)
    whether or not the project is featured or not (0 or 1 for false and true respectively)
    ```
+  
 
 
 
