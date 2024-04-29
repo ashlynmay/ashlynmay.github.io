@@ -161,7 +161,8 @@ Upon loading the main projects page, it will *always* drop the `projects` table 
 After `project_check()` has completed, the categories of *featured* projects (c, python, web, or other) will be split into their own python dictionaries which will be included when finally `render_template("projects.html" c_projects=c_projects ...)` is returned.
 When clicking on "View More Projects in ______", it will send the user to a very similar page but containing all projects of the said type of project. 
 
-### My cat
+### My Cat
+
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
