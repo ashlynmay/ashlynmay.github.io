@@ -156,7 +156,7 @@ The main projects page will show featured projects.
    type of project (c, python, web, or other)
    whether or not the project is featured or not (0 or 1 for false and true respectively)
    ```
-Upon loading the main projects page, it will *always* drop the projects table to ensure it is up to date, and then will call the function `project_check()` which will check if there is an existing projects table, convert the `project_name.md` file to a SQL table named projects, located in `portfolio.db`
+Upon loading the main projects page, it will *always* drop the projects table to ensure it is up to date, and then will call the function `project_check()` which will check if there is an existing projects table, and if not create one, and then convert the `project_name.md` file to a SQL table named projects, located in `portfolio.db`
 
 
 
