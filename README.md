@@ -169,7 +169,7 @@ A simple page utilizing the masonry image grid component from Flowbite to show o
 A button that redirects the user to my indeed resume.
 
 ### Contact Me
-A simple page with a photo of me, my name, 
+A simple page with a photo of me, my name, a button to email me, and my various socials.
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
