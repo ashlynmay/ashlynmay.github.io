@@ -16,3 +16,8 @@ If someone happens to get drastically lost or sent the wrong link for the websit
 
 Lastly, my favorite part of the website. The page dedicated to my lovely cat cali, now in a masonry grid.
 And I guess it would be a shame if I didn't say it once. this was cs50.
+
+
+# Portfolio
+### Video Demo:  <URL HERE>
+### Description: A portfolio webapp based on Flask utilizing tailwindcss and daisyUI.
