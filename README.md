@@ -146,7 +146,7 @@ Homepage features a hero component from daisyUI.
 It also features a timeline component from daisyUI.
 
 ### Projects
-The main projects page will show 
+The main projects page will show featured projects.
 
 
 
