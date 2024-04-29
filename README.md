@@ -158,7 +158,7 @@ The main projects page will show featured projects.
    alt text
    ```
 Upon loading the main projects page, it will *always* drop the `projects` table to ensure it is up to date, and then will call the function `project_check()` which will check if there is an existing table named `projects`, and if not create one, and then append the data inside the `project_name.md` file to a SQL table named `projects`, located in `portfolio.db`.
-After `project_check()` has completed, the categories of projects (c, python, web, or other) will be split into their own 
+After `project_check()` has completed, the categories of projects (c, python, web, or other) will be split into their own python dictionaries which will be included when 
 
 
 
