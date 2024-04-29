@@ -6,7 +6,7 @@ My name is Ashlyn and I'm excited to present my final project for CS50x.  For th
 
 So to get started, this is the homepage, as you might notice, the desktop and mobile versions of the site have different layouts. The mobile one has a bottom navigation bar, and two icons in the top corners for other less used parts of the website.
 
-The homepage features a photo of me, a brief 
+The homepage features a photo of me, a brief sentence or two about me, and
 
 
 ...
