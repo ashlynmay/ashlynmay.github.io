@@ -135,5 +135,5 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://res.cloudinary.com/dpm4kmh00/image/upload/v1714263510/portfolio%20assets/portfolio_hrxkzn.png
 
