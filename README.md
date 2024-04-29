@@ -55,7 +55,7 @@
       </ul>
     </li>
     <li>
-    <a href="#getting-started">Getting Started</a>
+    <a href="#explanation">Getting Started</a>
     </li>
   </ol>
 </details>
