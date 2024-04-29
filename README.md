@@ -153,7 +153,7 @@ The main projects page will show featured projects.
    link to preview image
    brief description
    project repo link
-   type of project ()
+   type of project (c, python, web, or other)
    ```
 
 
