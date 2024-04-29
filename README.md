@@ -135,7 +135,7 @@ This is an example of how to list things you need to use the software and how to
 ## Explanation
 
 ### Layout
-Responsive layout depending on whether or not 
+Responsive layout depending on screen size, mo
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
