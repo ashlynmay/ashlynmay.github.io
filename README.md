@@ -137,7 +137,8 @@ This is an example of how to list things you need to use the software and how to
 ### Layout
 Responsive layout depending on screen size.
   Mobile devices will have a bottom navigation bar, whilst desktop devices have a topbar.
-    The different states of the navigation bar, depending on what page they are on are stored as btm-nav(none), nav-contact(contact me), nav-home(homepage), and 
+    The different states of the navigation bar, depending on what page they are on are stored as btm-nav(none), nav-contact(contact me), nav-home(homepage), and nav-projects(projects pages).
+  
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
