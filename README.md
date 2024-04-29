@@ -73,7 +73,7 @@
 * [HTML5]
 * [JS]
 * [tailwind CSS][tailwindcss.com]
-* [daisyUI][daisyui.com]
+* [daisyUI]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
