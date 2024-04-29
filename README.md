@@ -169,7 +169,7 @@ A simple page utilizing the masonry image grid component from Flowbite to show o
 A button that redirects the user to my indeed resume.
 
 ### Contact Me
-A
+A simple page with my socials and 
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
