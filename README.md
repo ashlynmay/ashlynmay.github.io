@@ -72,8 +72,8 @@
 
 * [HTML5]
 * [JS]
-* <a href="https://tailwindcss.com">[tailwind CSS]<a\>
-* <a href="https://daisyui.com">[daisyUI]<a\>
+* <a href="https://tailwindcss.com">[tailwind CSS]
+* <a href="https://daisyui.com">[daisyUI]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
