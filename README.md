@@ -10,6 +10,8 @@ Now for the homepage, the homepage features a photo of me, a brief sentence or t
 
 Moving over to the Projects page, which you can access either by clicking on view projects, the code icon in the bottom navigation bar on mobile, or the corresponding link in the footer, you can see the featured projects per each type of project. 
 
+Upon clicking on
+
 
 ...
 
