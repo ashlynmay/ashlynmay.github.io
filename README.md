@@ -141,7 +141,8 @@ Responsive layout depending on screen size.
   A footer is included in footer.html and is passed through into layout.html to ensure it is in each page.
 
 ### Homepage
-Homepage features a hero component from daisyUI with a photo of me, 
+Homepage features a hero component from daisyUI.
+  The hero include a photo of me, two sentences about myself, and 
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
