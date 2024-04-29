@@ -162,6 +162,8 @@ After `project_check()` has completed, the categories of projects (c, python, we
 
 
 
+
+
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
 <br>
 <a href="https://daisyui.com/docs/install/">5. Install daisyUI<a/>
