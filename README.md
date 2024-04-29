@@ -12,7 +12,7 @@ Moving over to the Projects page, which you can access either by clicking on vie
 
 The projects displayed here are imported from a project_name.md file into a sequal database based upon the content in each line of the file. If you want to see more projects for a given language, you can click the button below the featured projects, which will then display all projects of that language.
 
-If someone needs to contact me though, they can find all the information they need to in the contact me page of the website. It has a button to email me as well as 
+If someone needs to contact me though, they can find all the information they need to in the contact me page of the website. It has a button to email me as well as various social medias you can 
 
 
 ...
