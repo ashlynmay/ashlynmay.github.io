@@ -154,7 +154,7 @@ The main projects page will show featured projects.
    brief description
    project repo link
    type of project (c, python, web, or other)
-   
+   whether or not the project is featured or not (0 or 1)
    ```
 
 
