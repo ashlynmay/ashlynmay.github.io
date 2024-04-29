@@ -173,7 +173,7 @@ A button that redirects the user to my indeed resume.
 A simple page with a photo of me, my name, a button to email me, and my various socials.
 
 ### 404
-A page that will show up whenever the error handler returns error 404. It is based on the e
+A page that will show up whenever the error handler returns error 404. It is 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
