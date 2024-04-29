@@ -74,7 +74,7 @@
 * [JS]
 * <a href="https://tailwindcss.com">[tailwind CSS]
 * <a href="https://daisyui.com">[daisyUI]
-* <a href="https://flowbite.com/">[flowbite]
+* <a href="https://flowbite.com/">[Flowbite]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
