@@ -149,6 +149,7 @@ It also features a timeline component from daisyUI.
 The main projects page will show featured projects.
   These projects data are stored in `projects/project_name.md` and are formatted as so:
   ```sh
+   title of project
    
    ```
 
