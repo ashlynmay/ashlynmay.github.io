@@ -147,7 +147,7 @@ It also features a timeline component from daisyUI.
 
 ### Projects
 The main projects page will show featured projects.
-  These projects data are stored in `projects/project_name.md```
+  These projects data are stored in ```projects/project_name.md```
 
 
 
