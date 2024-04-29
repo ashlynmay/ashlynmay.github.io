@@ -132,9 +132,9 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Explanation
+## Explanation
 
-####
+### Homepage
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
 <br>
 <a href="https://daisyui.com/docs/install/">5. Install daisyUI<a/>
