@@ -135,14 +135,7 @@ This is an example of how to list things you need to use the software and how to
 ## Explanation
 
 ### Layout
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ashlynmay/portfolio.git
-   ```
-3. Enter porfolio directory
-   ```sh
-   cd portfolio
-   ```
+
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
 <br>
 <a href="https://daisyui.com/docs/install/">5. Install daisyUI<a/>
