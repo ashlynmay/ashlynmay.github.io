@@ -13,4 +13,4 @@ So to get started, this is the homepage.
 
 ...
 
-This was cs50.
+And I guess I should make sure to say this was cs50.
