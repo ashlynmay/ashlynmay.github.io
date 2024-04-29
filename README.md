@@ -62,6 +62,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+[![Portfolio Screen Shot][product-screenshot]](https://ashlynmay-github-io.onrender.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ### Built With
 
