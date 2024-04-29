@@ -160,6 +160,7 @@ Upon loading the main projects page, it will *always* drop the `projects` table 
 
 
 
+
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
 <br>
 <a href="https://daisyui.com/docs/install/">5. Install daisyUI<a/>
