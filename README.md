@@ -14,7 +14,7 @@ The projects displayed here are imported from a project_name.md file into a sequ
 
 If someone needs to contact me though, they can find all the information they need to in the contact me page of the website. It has a button to email me as well as various social medias I can be found on. You can also click the resume button with the indeed icon at the top of the website at anytime to see my resume.
 
-Lastly, my favorite part of the website. The page dedicated to my lovely cat cali, now 
+Lastly, my favorite part of the website. The page dedicated to my lovely cat cali, now in a masonry grid.
 
 
 ...
