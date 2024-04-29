@@ -175,6 +175,7 @@ A simple page with a photo of me, my name, a button to email me, and my various 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
 <br>
+
 <a href="https://daisyui.com/docs/install/">5. Install daisyUI<a/>
 
 
