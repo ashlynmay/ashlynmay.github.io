@@ -165,7 +165,9 @@ When clicking on "View More Projects in ______", it will send the user to a very
 ### My Cat
 A simple page utilizing the masonry image grid component from Flowbite to show off pictures of my cat.
 
-### 
+### Resume
+A button that redirects the user to my indeed resume.
+
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
