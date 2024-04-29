@@ -8,6 +8,8 @@ So to get started, I will point out some things that will apply for all pages on
 
 Now for the homepage, the homepage features a photo of me, a brief sentence or two about myself, and a *hopefully* accurate timeline for my programming future. 
 
+Moving over to the Projects page, which you can access either by clicking on view projects
+
 
 ...
 
