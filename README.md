@@ -4,4 +4,4 @@ A portfolio webapp based on flask using tailwindcss and daisyui.
 
 # Portfolio
 #### Video Demo:  <URL HERE>
-#### Description: A portfolio webapp based on Flask with tailwindcss and daisyUI.
+#### Description: A portfolio webapp based on Flask utilizing tailwindcss and daisyUI.
