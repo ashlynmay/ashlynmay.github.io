@@ -172,6 +172,8 @@ A button that redirects the user to my indeed resume.
 ### Contact Me
 A simple page with a photo of me, my name, a button to email me, and my various socials.
 
+## 404
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
