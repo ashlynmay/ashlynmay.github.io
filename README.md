@@ -139,7 +139,7 @@ This is an example of how to list things you need to use the software and how to
 Responsive layout depending on screen size.
   Mobile devices will have a bottom navigation bar, whilst desktop devices have a topbar. (both from daisyUI)
     The different states of the navigation bar, depending on what page they are on are stored as btm-nav(none), nav-contact(contact me), nav-home(homepage), and nav-projects(projects pages).
-  A footer is included in footer.html and is passed through into layout.html to ensure it is in each page.
+  A footer is included in footer.html and is passed through into layout.html to ensure it is in each page. (footer from Flowbite)
 
 ### Homepage
 Homepage features a hero component from daisyUI.
