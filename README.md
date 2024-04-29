@@ -61,7 +61,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Video Demo:  <URL HERE>
+Video Demo:  
 
 ### Built With
 
