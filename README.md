@@ -136,7 +136,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Layout
 Responsive layout depending on screen size.
-  Mobile devices will have a bottom navigation bar, whilst 
+  Mobile devices will have a bottom navigation bar, whilst desktop devices have a topbar.
+  
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
