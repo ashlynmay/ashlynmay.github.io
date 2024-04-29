@@ -152,6 +152,7 @@ The main projects page will show featured projects.
    title of project
    link to preview image
    brief description
+   project repo link
    
    ```
 
