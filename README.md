@@ -5,4 +5,3 @@ A portfolio webapp based on flask using tailwindcss and daisyui.
 # YOUR PROJECT TITLE
 #### Video Demo:  <URL HERE>
 #### Description:
-TODO
