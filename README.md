@@ -162,7 +162,7 @@ After `project_check()` has completed, the categories of *featured* projects (c,
 When clicking on "View More Projects in ______", it will send the user to a very similar page but containing all projects of the said type of project. 
 
 ### My Cat
-A simple page utilizing the 
+A simple page utilizing the masonry 
 
 
 <a href="https://tailwindcss.com/docs/installation">4. Install Tailwind CSS<a/>
