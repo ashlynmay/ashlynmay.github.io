@@ -59,10 +59,6 @@ def project_check():
 def index():
     return render_template("index.html")
 
-@app.route("/intro")
-def intro():
-    return render_template("intro.html")
-
 @app.route("/projects")
 def projects():
     db.execute("DROP TABLE projects")
