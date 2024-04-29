@@ -142,7 +142,7 @@ Responsive layout depending on screen size.
 
 ### Homepage
 Homepage features a hero component from daisyUI.
-  The hero include a photo of me, two sentences about myself inside of a code mockup component from daisyUI.
+  The hero include a photo of me, two sentences about myself inside of a code mockup component from daisyUI, and a button to go to the projects page.
 It also features a timeline component from daisyUI.
 
 
