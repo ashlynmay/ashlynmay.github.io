@@ -60,7 +60,7 @@ def index():
     return render_template("index.html")
 
 @app.route("/intro")
-def index():
+def intro():
     return render_template("intro.html")
 
 @app.route("/projects")
