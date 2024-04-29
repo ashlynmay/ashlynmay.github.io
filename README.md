@@ -17,4 +17,4 @@ If someone needs to contact me though, they can find all the information they ne
 If someone happens to get drastically lost or sent the wrong link for the website, they will find themselves at this error page.
 
 Lastly, my favorite part of the website. The page dedicated to my lovely cat cali, now in a masonry grid.
-And I guess I should make sure to say, this was cs50.
+And I guess it would be a shame if I didn't say it once. this was cs50.
